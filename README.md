@@ -1,0 +1,2 @@
+# patentSearchEngire
+通过hbase实现海量数据的秒级查询,使用hive实现数据的离线统计查询，myeclipse的javaWeb项目
